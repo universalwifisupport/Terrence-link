@@ -43,7 +43,7 @@ function ContactPage() {
         <div className="mx-auto max-w-7xl px-6 grid lg:grid-cols-12 gap-8">
           <div className="lg:col-span-5 space-y-6">
             {[
-              { icon: Phone, label: "Call us", value: "(888) 765-9560", href: "tel:+18887659560" },
+              { icon: Phone, label: "Call us", value: "(833) 597-6839", href: "tel:+18335976839" },
               { icon: Mail, label: "Email", value: "support@terencelink.com", href: "mailto:support@terencelink.com" },
               { icon: MapPin, label: "Office", value: "30 N Gould St, Sheridan, WY 82801", href: "#" },
               { icon: Clock, label: "Hours", value: "Mon–Sun · 7am – 11pm ET", href: "#" },

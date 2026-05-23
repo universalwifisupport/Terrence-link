@@ -82,10 +82,10 @@ function Hero() {
             </p>
             <div className="reveal reveal-delay-3 mt-8 flex flex-wrap items-center gap-3">
               <a
-                href="tel:+18887659560"
+                href="tel:+18335976839"
                 className="inline-flex items-center gap-2 rounded-full bg-gradient-violet text-white px-6 py-3.5 text-sm font-semibold shadow-violet hover:opacity-95 transition"
               >
-                <Phone className="h-4 w-4" /> (888) 765-9560
+                <Phone className="h-4 w-4" /> (833) 597-6839
               </a>
               <Link
                 to="/contact"
@@ -411,8 +411,8 @@ function HowItWorks() {
 
         <div className="mt-16 flex flex-wrap items-center justify-between gap-4 rounded-2xl border border-white/10 bg-white/[0.04] backdrop-blur p-6">
           <p className="text-sm text-white/75 max-w-xl">Ready to start? Our advisors answer every call personally — no menus, no transfers, no upsells.</p>
-          <a href="tel:+18887659560" className="inline-flex items-center gap-2 rounded-full bg-white text-[color:var(--ink)] px-5 py-3 text-sm font-semibold hover:bg-white/90">
-            <Phone className="h-4 w-4" /> (888) 765-9560
+            <a href="tel:+18335976839" className="inline-flex items-center gap-2 rounded-full bg-white text-[color:var(--ink)] px-5 py-3 text-sm font-semibold hover:bg-white/90">
+              <Phone className="h-4 w-4" /> (833) 597-6839
           </a>
         </div>
       </div>
@@ -566,8 +566,8 @@ function FinalCta() {
                 Call for clear service guidance — we'll help you understand your options in plain language. Terencelink is not an ISP and has no provider affiliation.
               </p>
               <div className="mt-8 flex flex-wrap gap-3">
-              <a href="tel:+18887659560" className="inline-flex items-center gap-2 rounded-full bg-white text-[color:var(--violet)] px-6 py-3.5 text-sm font-semibold hover:bg-white/90">
-                <Phone className="h-4 w-4" /> (888) 765-9560
+              <a href="tel:+18335976839" className="inline-flex items-center gap-2 rounded-full bg-white text-[color:var(--violet)] px-6 py-3.5 text-sm font-semibold hover:bg-white/90">
+                <Phone className="h-4 w-4" /> (833) 597-6839
                 </a>
                 <Link to="/contact" className="inline-flex items-center gap-2 rounded-full bg-white/10 text-white hairline border-white/25 px-6 py-3.5 text-sm font-semibold hover:bg-white/15">
                   Request help <ArrowUpRight className="h-4 w-4" />

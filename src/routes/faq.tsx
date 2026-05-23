@@ -79,8 +79,8 @@ function FaqPage() {
             <h2 className="font-display text-3xl sm:text-4xl">Didn't find what you needed?</h2>
             <p className="mt-3 text-white/85 max-w-lg mx-auto">Speak with an independent advisor — there's no obligation and no provider scripts.</p>
             <div className="mt-7 flex flex-wrap justify-center gap-3">
-              <a href="tel:+18887659560" className="inline-flex items-center gap-2 rounded-full bg-white text-[color:var(--violet)] px-6 py-3 text-sm font-semibold">
-                <Phone className="h-4 w-4" /> (888) 765-9560
+              <a href="tel:+18335976839" className="inline-flex items-center gap-2 rounded-full bg-white text-[color:var(--violet)] px-6 py-3 text-sm font-semibold">
+                <Phone className="h-4 w-4" /> (833) 597-6839
               </a>
               <Link to="/contact" className="inline-flex items-center gap-2 rounded-full bg-white/15 text-white border border-white/30 px-6 py-3 text-sm font-semibold">
                 Request help <ArrowUpRight className="h-4 w-4" />

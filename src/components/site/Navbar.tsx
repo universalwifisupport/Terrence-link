@@ -48,10 +48,10 @@ export function Navbar() {
           </nav>
           <div className="flex items-center gap-2">
             <a
-              href="tel:+18887659560"
+              href="tel:+18335976839"
               className="hidden sm:inline-flex items-center gap-2 rounded-full bg-gradient-violet text-white px-5 py-2.5 text-sm font-semibold hover:opacity-95 transition-all shadow-violet"
             >
-              <Phone className="h-4 w-4" /> (888) 765-9560
+              <Phone className="h-4 w-4" /> (833) 597-6839
             </a>
             <button
               className="md:hidden rounded-full p-2 hairline"
@@ -70,8 +70,8 @@ export function Navbar() {
                   {l.label}
                 </Link>
               ))}
-              <a href="tel:+18887659560" className="mt-2 inline-flex items-center gap-2 rounded-full bg-gradient-violet text-white px-5 py-2.5 text-sm justify-center font-semibold">
-                <Phone className="h-4 w-4" /> (888) 765-9560
+              <a href="tel:+18335976839" className="mt-2 inline-flex items-center gap-2 rounded-full bg-gradient-violet text-white px-5 py-2.5 text-sm justify-center font-semibold">
+                <Phone className="h-4 w-4" /> (833) 597-6839
               </a>
             </nav>
           </div>

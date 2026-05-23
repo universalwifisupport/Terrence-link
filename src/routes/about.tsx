@@ -108,8 +108,8 @@ function AboutPage() {
             terencelink is an independent third-party service assistance provider. We are not affiliated with, authorized by, or endorsed by any internet, broadband or cable TV service provider.
           </p>
           <div className="mt-8 flex flex-wrap justify-center gap-3">
-            <a href="tel:+18887659560" className="inline-flex items-center gap-2 rounded-full bg-gradient-violet text-white px-6 py-3.5 text-sm font-semibold shadow-violet">
-              <Phone className="h-4 w-4" /> (888) 765-9560
+            <a href="tel:+18335976839" className="inline-flex items-center gap-2 rounded-full bg-gradient-violet text-white px-6 py-3.5 text-sm font-semibold shadow-violet">
+              <Phone className="h-4 w-4" /> (833) 597-6839
             </a>
             <Link to="/contact" className="inline-flex items-center gap-2 rounded-full bg-white hairline px-6 py-3.5 text-sm font-semibold hover:bg-secondary">
               Contact us <ArrowUpRight className="h-4 w-4" />

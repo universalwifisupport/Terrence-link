@@ -37,7 +37,7 @@ export function Footer() {
         <div className="md:col-span-4">
           <h4 className="font-display text-base mb-4 text-white">Reach us</h4>
           <ul className="space-y-3 text-sm text-white/75">
-            <li className="flex items-center gap-3"><Phone className="h-4 w-4 text-[color:var(--magenta)]" /> <a href="tel:+18887659560" className="hover:text-[color:var(--magenta)]">(888) 765-9560</a></li>
+            <li className="flex items-center gap-3"><Phone className="h-4 w-4 text-[color:var(--magenta)]" /> <a href="tel:+18335976839" className="hover:text-[color:var(--magenta)]">(833) 597-6839</a></li>
             <li className="flex items-center gap-3"><Mail className="h-4 w-4 text-[color:var(--magenta)]" /> <a href="mailto:support@terencelink.com" className="hover:text-[color:var(--magenta)]">support@terencelink.com</a></li>
             <li className="flex items-center gap-3"><MapPin className="h-4 w-4 text-[color:var(--magenta)]" /> 30 N Gould St, Sheridan, WY 82801</li>
           </ul>
